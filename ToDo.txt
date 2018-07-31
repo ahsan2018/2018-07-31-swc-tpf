@@ -1,0 +1,6 @@
+Conversion functions needed:
+
+--Dollars to cents
+--Gallons to litters
+--HOurs to minutes
+
