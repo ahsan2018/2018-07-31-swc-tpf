@@ -5,3 +5,4 @@ Conversion functions needed:
 --HOurs to minutes
 --More work...as always...
 -- Miles to Lightyears
+crazy 
