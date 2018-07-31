@@ -1,8 +1,8 @@
-Conversion functions needed:
+ Conversion functions needed:
 
 --Dollars to cents
 --Gallons to litters
 --HOurs to minutes
 --More work...as always...
 -- Miles to Lightyears
-crazy 
+crazier changes from Tom 
